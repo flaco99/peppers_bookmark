@@ -1,3 +1,19 @@
+Privacy Policy for cgpt_bookmark
+
+cgpt_bookmark lets you mark a spot in a ChatGPT conversation and jump
+back to it later.
+
+What is stored:
+When you press Mark, the extension saves the first 60 characters of the
+text block you selected, its position in the conversation, and the
+page's scroll position. 
+
+The extension can only store at most one bookmark at any given time and replaces it each time you press Mark. All information is stored locally in the user's browser using Chrome's extension storage and never leaves the device.
+
+What is not done:
 This extension does not collect, transmit, store, or sell any user data. 
-All bookmark information is stored locally in the user's browser using Chrome storage and never leaves the device.
 This extension does not use analytics, remote code, or external servers.
+
+Access to chatgpt.com:
+The extension runs on chatgpt.com and chat.openai.com only to display
+the Mark and Jump buttons and to scroll the page to your saved spot.
