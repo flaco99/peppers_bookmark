@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "cgpt_bookmark",
-    "version": "0.1",
-    "description": "Click a message to anchor to it.",
+    "version": "0.2",
+    "description": "Mark a spot and jump back to it later.",
     "permissions": ["storage"],
     "host_permissions": [
       "https://chatgpt.com/*",
